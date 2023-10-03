@@ -26,14 +26,14 @@ header{
     flex-direction:column;
     width: 1000px;
     justify-content: space-around;
-    color: rgb(40, 38, 35);
+    color: rgb(20, 17, 17);
 }
 .presentacion1{
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 10px;
     margin-right: 10px;
-    background-color: rgba(255, 231, 19, 0.826);
+    background-color: rgba(14, 50, 132, 0.848);
     font-size: x-large;
 }
 .presentacion2{
