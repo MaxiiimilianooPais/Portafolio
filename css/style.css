@@ -1,0 +1,69 @@
+body{
+    background-image: url(imagenes/yellow-dark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: space-between;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header{
+    color: rgba(255, 255, 255, 0.867);
+    background-color: rgba(0, 0, 0, 0.716);
+    height: 100px;
+    width: 1340px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.presentaciones{
+    display: flex;
+    flex-direction:column;
+    width: 1000px;
+    justify-content: space-around;
+    color: rgb(40, 38, 35);
+}
+.presentacion1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgba(255, 231, 19, 0.826);
+    font-size: x-large;
+}
+.presentacion2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: larger;
+    background-color: rgba(25, 247, 129, 0.812);
+}
+.presentacion3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: larger;
+    background-color: rgba(255, 214, 67, 0.834);
+}
+
+aside{
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    background-color: rgba(0, 85, 255, 0.185);
+    color: antiquewhite;
+    
+}
+
+.articleresumen{
+    padding: 40px;
+    font-size:medium;
+}
