@@ -10,7 +10,7 @@ header{
     color: rgba(255, 255, 255, 0.867);
     background-color: rgba(0, 0, 0, 0.716);
     height: 100px;
-    width: 1330px;
+    width: 1240px;
     display: flex;
     flex-direction: row;
     
@@ -54,7 +54,7 @@ header{
 }
 
 aside{
-    margin: 40px;
+   
     display: flex;
     flex-direction: column;
     justify-content:space-between;
