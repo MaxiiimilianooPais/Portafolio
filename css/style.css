@@ -1,5 +1,5 @@
 body{
-    background-image: url(imagenes/yellow-dark.jpg);
+    background-image: url(imagenes/fondo2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -8,12 +8,18 @@ body{
 }
 header{
     color: rgba(255, 255, 255, 0.867);
-    background-color: rgba(0, 0, 0, 0.716);
+    background-color: rgba(42, 41, 117, 0.516);
     height: 100px;
     width: 1240px;
     display: flex;
     flex-direction: row;
+    border-radius: 29px;
+    margin-bottom: 10px;
     
+}
+.logoimg{
+    height: 100px;
+    width: 100px;
 }
 
 .contenedor{
@@ -26,7 +32,7 @@ header{
     flex-direction:column;
     width: 1000px;
     justify-content: space-around;
-    color: rgb(40, 38, 35);
+    color: rgb(253, 253, 253);
     
 }
 .presentacion1{
@@ -35,7 +41,7 @@ header{
     margin-bottom: 30px;
     margin-left: 10px;
     margin-right: 10px;
-    background-color: rgba(255, 231, 19, 0.826);
+    background-color: rgba(7, 8, 46, 0.447);
     font-size: x-large;
     border-radius: 40px;
 }
@@ -46,7 +52,7 @@ header{
     margin-left: 10px;
     margin-right: 10px;
     font-size: larger;
-    background-color: rgba(25, 247, 129, 0.812);
+    background-color: rgba(25, 206, 247, 0.368);
     border-radius: 40px;
 }
 .presentacion3{
@@ -56,7 +62,7 @@ header{
     margin-left: 10px;
     margin-right: 10px;
     font-size: larger;
-    background-color: rgba(255, 214, 67, 0.834);
+    background-color: rgba(255, 214, 67, 0.322);
     border-radius: 40px;
 }
 
